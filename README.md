@@ -1,7 +1,7 @@
 # Salut 👋, je suis Rojo
 
 🎓 Étudiant en M2 Mathématiques, Informatiques et Statistique Appliquée  
-💼 Développeur backend (Django), passionné par l’IA, les systèmes embarqués et la data science  
+💼 Développeur backend (Django), passionné par l’IA, et la data science  
 🎮 Intéressé par le développement de jeux avec Unity, C# et Blender  
 📫 Contacte-moi : rojoniainaandria@gmail.com
 
